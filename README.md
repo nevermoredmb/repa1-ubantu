@@ -1,4 +1,4 @@
-# geek-2020-03-01
+# REPA1-ubantu
 Linux course
 Write from linux
 
